@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "about": "About",
+    "gallery": "Gallery",
+    "workshops": "Workshops",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Your safe space to discover beauty in imperfection and simplicity",
+    "subtitle": "Where art meets philosophy in the heart of authentic creativity",
+    "cta": "Explore Our Workshops"
+  },
+  "about": {
+    "title": "About Wabi Sabi",
+    "description": "Wabi Sabi is more than an art space—it's a philosophy in action. Inspired by the Japanese concept of finding beauty in imperfection, our studio provides a nurturing environment where creativity flourishes without judgment. Here, every brushstroke, every photograph, and every moment of artistic exploration is honored as part of your unique journey.",
+    "philosophy": "Embracing the imperfect, impermanent, and incomplete"
+  },
+  "features": {
+    "kitchen": {
+      "title": "Kitchen & Cafeteria",
+      "desc": "Cozy space for breaks and community bonding"
+    },
+    "workshops": {
+      "title": "Diverse Workshops",
+      "desc": "From journaling to cyanotype, explore various art forms"
+    },
+    "projection": {
+      "title": "Projection Screen",
+      "desc": "Modern equipment for presentations and tutorials"
+    },
+    "atmosphere": {
+      "title": "Cozy Atmosphere",
+      "desc": "Warm, welcoming space that inspires creativity"
+    }
+  },
+  "gallery": {
+    "title": "Our Gallery",
+    "subtitle": "Moments captured from our workshops and creative sessions",
+    "filter": {
+      "all": "All",
+      "journaling": "Journaling",
+      "photography": "Photography",
+      "cyanotype": "Cyanotype",
+      "painting": "Painting",
+      "ceramics": "Ceramics"
+    }
+  },
+  "workshops": {
+    "title": "Upcoming Workshops",
+    "subtitle": "Join us for transformative creative experiences",
+    "available": "spots available",
+    "bookNow": "Book Now",
+    "price": "EGP"
+  },
+  "testimonials": {
+    "title": "Stories from Our Community",
+    "subtitle": "Hear from participants who found their creative voice with us"
+  },
+  "booking": {
+    "title": "Book Your Workshop",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "workshop": "Select Workshop",
+    "payment": "Payment Method",
+    "paymentMethods": {
+      "cash": "Cash on Site",
+      "paymob": "Paymob",
+      "fawry": "Fawry",
+      "paypal": "PayPal"
+    },
+    "requests": "Special Requests (Optional)",
+    "submit": "Complete Booking",
+    "success": "Booking submitted successfully! We'll contact you soon."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Hours",
+    "hoursValue": "Daily 10:00 AM - 8:00 PM"
+  },
+  "common": {
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again."
+  }
+}
+
