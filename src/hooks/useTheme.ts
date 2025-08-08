@@ -6,9 +6,9 @@ export const useTheme = () => {
   const [theme, setTheme] = useState<Theme>(() => {
     if (typeof window !== 'undefined') {
       const stored = localStorage.getItem('theme') as Theme;
-      return stored || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      return stored || 'dark';
     }
-    return 'light';
+    return 'dark';
   });
 
   useEffect(() => {
